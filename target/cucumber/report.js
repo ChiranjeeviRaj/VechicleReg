@@ -38,28 +38,28 @@ formatter.match({
   "location": "VehicleInformation.a_gov_vehicle_verification_page_opened()"
 });
 formatter.result({
-  "duration": 9316549900,
+  "duration": 5426572000,
   "status": "passed"
 });
 formatter.match({
   "location": "VehicleInformation.click_get_started_and_enter_registration_number_and_click_on_continue_button()"
 });
 formatter.result({
-  "duration": 2222932600,
+  "duration": 1368671400,
   "status": "passed"
 });
 formatter.match({
   "location": "VehicleInformation.verifies_make_and_color_of_the_vehicle_if_the_registration_found()"
 });
 formatter.result({
-  "duration": 15061931800,
+  "duration": 9245757800,
   "status": "passed"
 });
 formatter.match({
   "location": "VehicleInformation.close_the_browser()"
 });
 formatter.result({
-  "duration": 1086180900,
+  "duration": 1141268100,
   "status": "passed"
 });
 });
