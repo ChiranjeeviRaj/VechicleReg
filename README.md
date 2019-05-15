@@ -1,11 +1,11 @@
 # VechicleReg
 
-This application tested on Windows both chrome and firefox browser, the default configured as chrome on Inputs.BROWSER_NAME.
+This application tested on Windows both chrome and firefox browser, the default browser configured as chrome on Inputs.BROWSER_NAME.
 
 Run The Test :
 mvn clean test
 
-The above command executes all test cases and result reports are generated on the Reports(Reports) file and logs(/Logs), screenshots(/ScreeShot) are also created on the corresponding folders.
+The above command executes all test cases and result reports are generated on the Reports(Reports) file and logs(/Logs), screenshots(/ScreeShot) are also created on the corresponding folders. The screenshots are opend and verifed on paint.
 
 This test is implemented using Java, Selenium, cucumber, and JUnit frameworks.
 
