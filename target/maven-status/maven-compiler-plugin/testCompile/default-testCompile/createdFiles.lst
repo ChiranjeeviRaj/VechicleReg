@@ -1,0 +1,7 @@
+utilities\GenericActions.class
+utilities\ObjectRepo.class
+com\exercise\service\CSVDataReaderServiceImplTest.class
+stepDefinitions\VehicleInformation.class
+cucumberOptions\TestRunner.class
+utilities\Inputs.class
+com\exercise\service\FileReaderServiceImplTest.class

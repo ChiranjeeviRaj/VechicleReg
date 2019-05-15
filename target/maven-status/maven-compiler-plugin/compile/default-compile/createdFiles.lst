@@ -1,0 +1,6 @@
+com\exercise\service\FileReaderService.class
+com\exercise\service\CSVDataReaderServiceImpl.class
+com\exercise\service\com\exercise\service\model\FileInfoModel.class
+com\exercise\service\FileReaderServiceImpl.class
+com\exercise\service\CSVDataReaderService.class
+com\exercise\service\com\exercise\service\model\VehicleModel.class
